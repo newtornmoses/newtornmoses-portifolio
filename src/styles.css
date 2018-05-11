@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+.navbar.navbar-dark.bg-dark {
+    background-color: #4e4f5133 !important;
+    position: absolute;
+    top: 0px;
+    z-index: 100000000;
+    width: 100%;
+    border-bottom: 1px solid #14abde80;
+    color: white;
+}
+
+#defaultCanvas0 {
+    position: absolute;
+    top: 52px;
+    left: -50px;
+    background: #851e874d;
+}
